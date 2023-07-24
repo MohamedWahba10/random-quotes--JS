@@ -1,0 +1,43 @@
+.quote {
+  background-color: #cfb4b4;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 1000px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight:900;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00a331;
+}
+#quote-text{
+    font-size: 30px;
+
+
+}
+#quote-author{
+
+    font-size: 20px;
+}
